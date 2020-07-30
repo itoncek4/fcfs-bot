@@ -4,7 +4,7 @@ const DataSource = require('./struct/data_source');
 const ReadyListener = require('./listeners/client_ready');
 const ArgTypesRegistrar = require('./util/arg_types_registrar');
 
-const TOKEN = process.env.FCFS_BOT_TOKEN;
+const TOKEN = process.env.NzI1NjQ0ODgxMjQ2MDI3Nzk2.XvRvdQ.YcOnrJAtt9O7oXQTU62hV3eseT4;
 const version = require('../package.json').version;
 
 class FCFSClient extends AkairoClient {
